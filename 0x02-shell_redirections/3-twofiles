@@ -1,2 +1,4 @@
 #!/bin/bash
-cat /etc/passwd /etc/hosts
+
+# This will print to the screen
+echo "cat /etc/passwd /etc/hosts"
