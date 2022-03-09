@@ -1,6 +1,2 @@
 #!/bin/bash
-
-# This will print to the screen
 cat /etc/passwd /etc/hosts
-bored
-
